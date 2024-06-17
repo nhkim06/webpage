@@ -1,0 +1,91 @@
+body {
+    background-color: #EAF3FE;
+}
+
+.text_plain{
+    font: normal normal bold 16px Hancom Gothic;
+    color: #8B8B8B;
+    text-decoration: none;
+    font-weight: normal;
+}
+.text_bold{
+    font: normal normal bold 16px Hancom Gothic;
+    color: #8B8B8B;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+
+img{
+    display: block;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.input-text {
+    text-align: center;
+}
+
+.input-text input {
+    display: block;
+    padding-left: 30px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #707070;
+    border-radius: 41px;
+    opacity: 1;
+}
+.input{
+    /* position: absolute;
+    top: 451px;
+    margin-left: 692px; */
+    width: 536px;
+    height: 60px;
+}
+.input-1{
+    width: 536px;
+    height: 60px;
+}
+.input-2{
+    width: 536px;
+    height: 60px;
+}
+.input-3{
+    width: 536px;
+    height: 60px;
+}
+
+.blue-button {
+    /* position: absolute;
+    top: 679px;
+    left: 968px; */
+    margin-top: 30px;
+    width: 258px;
+    height: 64px;
+    background: #6D85B7 0% 0% no-repeat padding-box;
+    opacity: 1;
+    border: none;
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+.white-button {
+    /* position:absolute;
+    top: 679px;
+    left: 692px; */
+    margin-top: 30px;
+    width: 258px;
+    height: 64px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #707070;
+    opacity: 1;
+    color: #000000;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 20px;
+    cursor: pointer;
+    margin-right: 10px;
+}
